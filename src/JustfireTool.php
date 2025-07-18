@@ -17,7 +17,6 @@ use Justfire\Util\Tool\Ciphertext;
 use Justfire\Util\Tool\ClassProxy;
 use Justfire\Util\Tool\Dir;
 use Justfire\Util\Tool\Excel;
-use Justfire\Util\Tool\Excel\XlsWriter;
 use Justfire\Util\Tool\HtmlDocument;
 use Justfire\Util\Tool\JWT;
 use Justfire\Util\Tool\Lock;
