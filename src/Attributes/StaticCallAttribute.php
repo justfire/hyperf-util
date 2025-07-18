@@ -10,7 +10,7 @@ namespace Justfire\Util\Attributes;
  * 静态调用方法的注解类
  *
  * Class StaticCallAttribute
- * @package Sc\Util\Attributes
+ * @package Justfire\Util\Attributes
  * @author chenlong<vip_chenlong@163.com>
  * @date 2022/2/20
  */
