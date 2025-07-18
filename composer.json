@@ -6,7 +6,7 @@
             "Justfire\\Util\\": "src/"
         },
         "files": [
-            "./src/Tool/Functions/helpers.php"
+            "src/Tool/Functions/helpers.php"
         ]
     },
     "authors": [
