@@ -1,0 +1,21 @@
+{
+    "name": "sc/util",
+    "description": "sc util",
+    "autoload": {
+        "psr-4": {
+            "Sc\\Util\\": "src/"
+        },
+        "files": [
+            "src/Tool/Functions/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "chenlong-sd",
+            "email": "vip_chenlong@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    }
+}
