@@ -3,7 +3,7 @@
  * datetime: 2023/5/22 1:40
  **/
 
-namespace Sc\Util\HtmlStructure\Html\Js;
+namespace Justfire\Util\HtmlStructure\Html\Js;
 use JetBrains\PhpStorm\ExpectedValues;
 use JetBrains\PhpStorm\Language;
 
@@ -12,7 +12,7 @@ use JetBrains\PhpStorm\Language;
  *
  * Class Grammar
  *
- * @package Sc\Util\HtmlStructure\Html\Js
+ * @package Justfire\Util\HtmlStructure\Html\Js
  * @date    2023/5/22
  */
 class Grammar

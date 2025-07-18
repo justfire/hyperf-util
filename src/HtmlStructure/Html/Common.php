@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Html;
+namespace Justfire\Util\HtmlStructure\Html;
 
 /**
  * Class Common

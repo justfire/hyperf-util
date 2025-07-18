@@ -3,17 +3,17 @@
  * datetime: 2023/6/3 23:16
  **/
 
-namespace Sc\Util\HtmlStructure\Theme\Layui;
+namespace Justfire\Util\HtmlStructure\Theme\Layui;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Html\Js\JsCode;
-use Sc\Util\HtmlStructure\Html\Js\JsFunc;
-use Sc\Util\HtmlStructure\Html\Js\JsVar;
-use Sc\Util\HtmlStructure\Form\FormItemAttrGetter;
-use Sc\Util\HtmlStructure\Form\FormItemEditor;
-use Sc\Util\HtmlStructure\Theme\Interfaces\FormItemEditorThemeInterface;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Html\Js\JsCode;
+use Justfire\Util\HtmlStructure\Html\Js\JsFunc;
+use Justfire\Util\HtmlStructure\Html\Js\JsVar;
+use Justfire\Util\HtmlStructure\Form\FormItemAttrGetter;
+use Justfire\Util\HtmlStructure\Form\FormItemEditor;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\FormItemEditorThemeInterface;
 
 class FormItemEditorTheme extends AbstractFormItemTheme implements FormItemEditorThemeInterface
 {

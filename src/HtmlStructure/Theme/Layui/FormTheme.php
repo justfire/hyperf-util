@@ -3,15 +3,15 @@
  * datetime: 2023/6/7 0:14
  **/
 
-namespace Sc\Util\HtmlStructure\Theme\Layui;
+namespace Justfire\Util\HtmlStructure\Theme\Layui;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Html\Js\Grammar;
-use Sc\Util\HtmlStructure\Html\Js\Obj;
-use Sc\Util\HtmlStructure\Form;
-use Sc\Util\HtmlStructure\Theme\Interfaces\FormThemeInterface;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Html\Js\Grammar;
+use Justfire\Util\HtmlStructure\Html\Js\Obj;
+use Justfire\Util\HtmlStructure\Form;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\FormThemeInterface;
 
 class FormTheme implements FormThemeInterface
 {

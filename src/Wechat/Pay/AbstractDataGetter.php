@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\Wechat\Pay;
+namespace Justfire\Util\Wechat\Pay;
 
 
 /**

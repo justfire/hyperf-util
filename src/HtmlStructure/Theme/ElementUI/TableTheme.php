@@ -3,31 +3,31 @@
  * datetime: 2023/5/27 23:59
  **/
 
-namespace Sc\Util\HtmlStructure\Theme\ElementUI;
+namespace Justfire\Util\HtmlStructure\Theme\ElementUI;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlElement\ElementType\DoubleLabel;
-use Sc\Util\HtmlElement\ElementType\FictitiousLabel;
-use Sc\Util\HtmlElement\ElementType\TextCharacters;
-use Sc\Util\HtmlStructure\Form;
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Html\Js;
-use Sc\Util\HtmlStructure\Html\Js\Axios;
-use Sc\Util\HtmlStructure\Html\Js\JsCode;
-use Sc\Util\HtmlStructure\Html\Js\JsFunc;
-use Sc\Util\HtmlStructure\Html\Js\JsService;
-use Sc\Util\HtmlStructure\Html\StaticResource;
-use Sc\Util\HtmlStructure\Table;
-use Sc\Util\HtmlStructure\Table\Column;
-use Sc\Util\HtmlStructure\Theme\Interfaces\TableThemeInterface;
-use Sc\Util\ScTool;
-use Sc\Util\Tool;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlElement\ElementType\DoubleLabel;
+use Justfire\Util\HtmlElement\ElementType\FictitiousLabel;
+use Justfire\Util\HtmlElement\ElementType\TextCharacters;
+use Justfire\Util\HtmlStructure\Form;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Html\Js;
+use Justfire\Util\HtmlStructure\Html\Js\Axios;
+use Justfire\Util\HtmlStructure\Html\Js\JsCode;
+use Justfire\Util\HtmlStructure\Html\Js\JsFunc;
+use Justfire\Util\HtmlStructure\Html\Js\JsService;
+use Justfire\Util\HtmlStructure\Html\StaticResource;
+use Justfire\Util\HtmlStructure\Table;
+use Justfire\Util\HtmlStructure\Table\Column;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\TableThemeInterface;
+use Justfire\Util\ScTool;
+use Justfire\Util\Tool;
 
 /**
  * Class Table
  *
- * @package Sc\Util\HtmlStructure\Theme\ElementUI
+ * @package Justfire\Util\HtmlStructure\Theme\ElementUI
  * @date    2023/5/28
  */
 class TableTheme implements TableThemeInterface

@@ -3,17 +3,17 @@
  * datetime: 2023/5/27 23:58
  **/
 
-namespace Sc\Util\HtmlStructure\Theme\Interfaces;
+namespace Justfire\Util\HtmlStructure\Theme\Interfaces;
 
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Tag;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Tag;
 
 /**
  * 表格渲染
  *
  * Interface TableInterface
  *
- * @package Sc\Util\HtmlStructure\Theme\Interfaces
+ * @package Justfire\Util\HtmlStructure\Theme\Interfaces
  * @date    2023/5/27
  */
 interface TagThemeInterface

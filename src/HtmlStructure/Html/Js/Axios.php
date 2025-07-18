@@ -1,13 +1,13 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Html\Js;
+namespace Justfire\Util\HtmlStructure\Html\Js;
 
 use JetBrains\PhpStorm\Language;
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Html\Js;
-use Sc\Util\HtmlStructure\Html\StaticResource;
-use Sc\Util\Tool\Url;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Html\Js;
+use Justfire\Util\HtmlStructure\Html\StaticResource;
+use Justfire\Util\Tool\Url;
 
 /**
  * Class Axios

@@ -1,10 +1,10 @@
 <?php
 
-namespace Sc\Util\HtmlStructure;
+namespace Justfire\Util\HtmlStructure;
 
 use JetBrains\PhpStorm\ExpectedValues;
-use Sc\Util\HtmlStructure\Theme\Interfaces\TagThemeInterface;
-use Sc\Util\HtmlStructure\Theme\Theme;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\TagThemeInterface;
+use Justfire\Util\HtmlStructure\Theme\Theme;
 
 /**
  * Class Tag

@@ -1,14 +1,14 @@
 <?php
 
-namespace Sc\Util\Wechat\Pay\Common;
+namespace Justfire\Util\Wechat\Pay\Common;
 
-use Sc\Util\Wechat\Config;
-use Sc\Util\Wechat\Execption\WechatException;
-use Sc\Util\Wechat\Pay\Common\RefundData\Amount;
-use Sc\Util\Wechat\Pay\Common\RefundData\GoodsDetail;
-use Sc\Util\Wechat\Request;
-use Sc\Util\Wechat\Response;
-use Sc\Util\Wechat\Tool;
+use Justfire\Util\Wechat\Config;
+use Justfire\Util\Wechat\Execption\WechatException;
+use Justfire\Util\Wechat\Pay\Common\RefundData\Amount;
+use Justfire\Util\Wechat\Pay\Common\RefundData\GoodsDetail;
+use Justfire\Util\Wechat\Request;
+use Justfire\Util\Wechat\Response;
+use Justfire\Util\Wechat\Tool;
 
 /**
  * 退款

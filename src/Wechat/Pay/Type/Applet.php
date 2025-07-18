@@ -1,11 +1,11 @@
 <?php
 
-namespace Sc\Util\Wechat\Pay\Type;
+namespace Justfire\Util\Wechat\Pay\Type;
 
-use Sc\Util\Wechat\Config;
-use Sc\Util\Wechat\Pay\Type\Params\OptionalParameter;
-use Sc\Util\Wechat\Pay\Type\Params\Payer;
-use Sc\Util\Wechat\Pay\Type\Params\RequireParams;
+use Justfire\Util\Wechat\Config;
+use Justfire\Util\Wechat\Pay\Type\Params\OptionalParameter;
+use Justfire\Util\Wechat\Pay\Type\Params\Payer;
+use Justfire\Util\Wechat\Pay\Type\Params\RequireParams;
 
 /**
  * Class Applet

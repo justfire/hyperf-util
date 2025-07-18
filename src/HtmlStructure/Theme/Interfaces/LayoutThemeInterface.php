@@ -1,9 +1,9 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Theme\Interfaces;
+namespace Justfire\Util\HtmlStructure\Theme\Interfaces;
 
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Layout;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Layout;
 
 /**
  * Interface LayoutThemeInterface

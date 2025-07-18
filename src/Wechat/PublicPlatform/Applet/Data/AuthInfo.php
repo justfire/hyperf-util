@@ -1,8 +1,8 @@
 <?php
 
-namespace Sc\Util\Wechat\PublicPlatform\Applet\Data;
+namespace Justfire\Util\Wechat\PublicPlatform\Applet\Data;
 
-use Sc\Util\Wechat\ArrayAccessData;
+use Justfire\Util\Wechat\ArrayAccessData;
 
 class AuthInfo implements \ArrayAccess
 {

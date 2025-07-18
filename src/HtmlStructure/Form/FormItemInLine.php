@@ -1,12 +1,12 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Form;
+namespace Justfire\Util\HtmlStructure\Form;
 
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Form\ItemAttrs\DefaultValue;
-use Sc\Util\HtmlStructure\Form\ItemAttrs\FormOrigin;
-use Sc\Util\HtmlStructure\Theme\Interfaces\FormItemInLineThemeInterface;
-use Sc\Util\HtmlStructure\Theme\Theme;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Form\ItemAttrs\DefaultValue;
+use Justfire\Util\HtmlStructure\Form\ItemAttrs\FormOrigin;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\FormItemInLineThemeInterface;
+use Justfire\Util\HtmlStructure\Theme\Theme;
 
 /**
  * Class FormItemLine

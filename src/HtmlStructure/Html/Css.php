@@ -3,16 +3,16 @@
  * datetime: 2023/5/15 0:36
  **/
 
-namespace Sc\Util\HtmlStructure\Html;
+namespace Justfire\Util\HtmlStructure\Html;
 use JetBrains\PhpStorm\Language;
-use Sc\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\El;
 
 /**
  * Html 页面css
  *
  * Class Css
  *
- * @package Sc\Util\HtmlStructure\Html
+ * @package Justfire\Util\HtmlStructure\Html
  * @date    2023/5/15
  */
 class Css

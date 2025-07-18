@@ -1,14 +1,14 @@
 <?php
 
-namespace Sc\Util\Wechat\PublicPlatform\PublicAccount;
+namespace Justfire\Util\Wechat\PublicPlatform\PublicAccount;
 
 use Psr\SimpleCache\InvalidArgumentException;
-use Sc\Util\Wechat\Config;
-use Sc\Util\Wechat\Execption\WechatException;
-use Sc\Util\Wechat\PublicPlatform\AccessToken;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\Menu\MenuItem;
-use Sc\Util\Wechat\Request;
-use Sc\Util\Wechat\Response;
+use Justfire\Util\Wechat\Config;
+use Justfire\Util\Wechat\Execption\WechatException;
+use Justfire\Util\Wechat\PublicPlatform\AccessToken;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\Menu\MenuItem;
+use Justfire\Util\Wechat\Request;
+use Justfire\Util\Wechat\Response;
 
 /**
  * Class Menu

@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\ClassFile\Components;
+namespace Justfire\Util\ClassFile\Components;
 
 /**
  * Class DocComment

@@ -1,10 +1,10 @@
 <?php
 
-namespace Sc\Util\Wechat\Pay\Notice;
+namespace Justfire\Util\Wechat\Pay\Notice;
 
 use JetBrains\PhpStorm\ArrayShape;
 use JetBrains\PhpStorm\ExpectedValues;
-use Sc\Util\Wechat\Pay\Notice\RefundNoticeParams\RefundNoticeData;
+use Justfire\Util\Wechat\Pay\Notice\RefundNoticeParams\RefundNoticeData;
 
 /**
  * 退款通知

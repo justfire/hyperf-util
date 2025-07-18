@@ -9,24 +9,24 @@ declare(strict_types=1);
  * @contact  group@hyperf.io
  * @license  https://github.com/hyperf/hyperf/blob/master/LICENSE
  */
-namespace Sc\Util;
+namespace Justfire\Util;
 
-use Sc\Util\Attributes\StaticCallAttribute;
-use Sc\Util\Tool\BaiduFanYi;
-use Sc\Util\Tool\Ciphertext;
-use Sc\Util\Tool\ClassProxy;
-use Sc\Util\Tool\Dir;
-use Sc\Util\Tool\Excel;
-use Sc\Util\Tool\Excel\XlsWriter;
-use Sc\Util\Tool\HtmlDocument;
-use Sc\Util\Tool\JWT;
-use Sc\Util\Tool\Lock;
-use Sc\Util\Tool\Nickname;
-use Sc\Util\Tool\Random;
-use Sc\Util\Tool\RemoteResourceDownload;
-use Sc\Util\Tool\SensitiveWord;
-use Sc\Util\Tool\Tree;
-use Sc\Util\Tool\Url;
+use Justfire\Util\Attributes\StaticCallAttribute;
+use Justfire\Util\Tool\BaiduFanYi;
+use Justfire\Util\Tool\Ciphertext;
+use Justfire\Util\Tool\ClassProxy;
+use Justfire\Util\Tool\Dir;
+use Justfire\Util\Tool\Excel;
+use Justfire\Util\Tool\Excel\XlsWriter;
+use Justfire\Util\Tool\HtmlDocument;
+use Justfire\Util\Tool\JWT;
+use Justfire\Util\Tool\Lock;
+use Justfire\Util\Tool\Nickname;
+use Justfire\Util\Tool\Random;
+use Justfire\Util\Tool\RemoteResourceDownload;
+use Justfire\Util\Tool\SensitiveWord;
+use Justfire\Util\Tool\Tree;
+use Justfire\Util\Tool\Url;
 
 /**
  * Class Tool.
@@ -54,13 +54,13 @@ use Sc\Util\Tool\Url;
 #[StaticCallAttribute('baiduFanYi', BaiduFanYi::class)]
 #[StaticCallAttribute('jwt', JWT::class)]
 #[StaticCallAttribute('xls', Excel::class, 'getHandler')]
-class ScTool extends StaticCall
+class JustfireTool extends StaticCall
 {
     /**
      * @date 2022/2/20
      */
     protected static function getClassFullyQualifiedName(string $shortClassName): string
     {
-        return "Sc\\Util\\Tool\\{$shortClassName}";
+        return "Justfire\\Util\\Tool\\{$shortClassName}";
     }
 }

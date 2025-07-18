@@ -1,8 +1,8 @@
 <?php
 
-namespace Sc\Util\Tool;
+namespace Justfire\Util\Tool;
 
-use Sc\Util\Tool\Dir\EachFile;
+use Justfire\Util\Tool\Dir\EachFile;
 
 /**
  * 遍历文件夹

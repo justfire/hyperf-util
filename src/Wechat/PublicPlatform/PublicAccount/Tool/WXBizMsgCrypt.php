@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\Wechat\PublicPlatform\PublicAccount\Tool;
+namespace Justfire\Util\Wechat\PublicPlatform\PublicAccount\Tool;
 
 /**
  * 微信消息加密解密

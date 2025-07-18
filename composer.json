@@ -1,12 +1,12 @@
 {
-    "name": "sc/util",
-    "description": "sc util",
+    "name": "justfire/util",
+    "description": "justfire util",
     "autoload": {
         "psr-4": {
-            "Sc\\Util\\": "src/"
+            "Justfire\\Util\\": "src/"
         },
         "files": [
-            "src/Tool/Functions/helpers.php"
+            "justfire/Tool/Functions/helpers.php"
         ]
     },
     "authors": [

@@ -1,12 +1,12 @@
 <?php
 
-namespace Sc\Util\Wechat\PublicPlatform;
+namespace Justfire\Util\Wechat\PublicPlatform;
 
 use Psr\SimpleCache\InvalidArgumentException;
-use Sc\Util\Wechat\Config;
-use Sc\Util\Wechat\Execption\WechatException;
-use Sc\Util\Wechat\Request;
-use Sc\Util\Wechat\Tool;
+use Justfire\Util\Wechat\Config;
+use Justfire\Util\Wechat\Execption\WechatException;
+use Justfire\Util\Wechat\Request;
+use Justfire\Util\Wechat\Tool;
 
 /**
  * Class AccessToken

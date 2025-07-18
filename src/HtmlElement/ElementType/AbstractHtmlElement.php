@@ -3,16 +3,16 @@
  * datetime: 2023/4/13 2:59
  **/
 
-namespace Sc\Util\HtmlElement\ElementType;
+namespace Justfire\Util\HtmlElement\ElementType;
 
 use JetBrains\PhpStorm\Language;
-use Sc\Util\HtmlElement\ElementHandle\ElementQuery;
+use Justfire\Util\HtmlElement\ElementHandle\ElementQuery;
 
 /**
  * 抽象元素
  * Class AbstractElement
  *
- * @package Sc\Util\Element
+ * @package Justfire\Util\Element
  * @date    2023/4/13
  * @mixin DoubleLabel
  */

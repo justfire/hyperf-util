@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\Tool;
+namespace Justfire\Util\Tool;
 
 /**
  * 类的代理，用于获取类的私有属性，调用类的私有方法

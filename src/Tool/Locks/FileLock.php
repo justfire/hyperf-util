@@ -1,8 +1,8 @@
 <?php
 
-namespace Sc\Util\Tool\Locks;
+namespace Justfire\Util\Tool\Locks;
 
-use Sc\Util\Tool\Lock;
+use Justfire\Util\Tool\Lock;
 
 /**
  * Class FileLock

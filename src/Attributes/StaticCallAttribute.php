@@ -4,7 +4,7 @@
  * user    : chenlong<vip_chenlong@163.com>
  **/
 
-namespace Sc\Util\Attributes;
+namespace Justfire\Util\Attributes;
 
 /**
  * 静态调用方法的注解类

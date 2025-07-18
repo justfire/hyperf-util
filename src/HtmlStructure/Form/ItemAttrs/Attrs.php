@@ -3,9 +3,9 @@
  * datetime: 2023/6/4 11:19
  **/
 
-namespace Sc\Util\HtmlStructure\Form\ItemAttrs;
+namespace Justfire\Util\HtmlStructure\Form\ItemAttrs;
 
-use Sc\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\El;
 
 trait Attrs
 {

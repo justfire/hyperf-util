@@ -1,11 +1,11 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Form;
+namespace Justfire\Util\HtmlStructure\Form;
 
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Form\ItemAttrs\Attrs;
-use Sc\Util\HtmlStructure\Theme\Interfaces\FormItemCustomizeThemeInterface;
-use Sc\Util\HtmlStructure\Theme\Theme;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Form\ItemAttrs\Attrs;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\FormItemCustomizeThemeInterface;
+use Justfire\Util\HtmlStructure\Theme\Theme;
 
 /**
  * Class FormItemCustomize

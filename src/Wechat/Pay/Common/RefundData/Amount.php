@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\Wechat\Pay\Common\RefundData;
+namespace Justfire\Util\Wechat\Pay\Common\RefundData;
 
 /**
  * Class Amount

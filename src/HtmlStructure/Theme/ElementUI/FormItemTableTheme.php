@@ -3,23 +3,23 @@
  * datetime: 2023/6/3 23:16
  **/
 
-namespace Sc\Util\HtmlStructure\Theme\ElementUI;
+namespace Justfire\Util\HtmlStructure\Theme\ElementUI;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlElement\ElementType\TextCharacters;
-use Sc\Util\HtmlStructure\Form\FormItemAttrGetter;
-use Sc\Util\HtmlStructure\Form\FormItemInterface;
-use Sc\Util\HtmlStructure\Form\FormItemSelect;
-use Sc\Util\HtmlStructure\Form\FormItemTable;
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Html\Js;
-use Sc\Util\HtmlStructure\Html\Js\JsFunc;
-use Sc\Util\HtmlStructure\Html\StaticResource;
-use Sc\Util\HtmlStructure\Layout;
-use Sc\Util\HtmlStructure\Table;
-use Sc\Util\HtmlStructure\Theme\Interfaces\FormItemTableThemeInterface;
-use Sc\Util\Tool;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlElement\ElementType\TextCharacters;
+use Justfire\Util\HtmlStructure\Form\FormItemAttrGetter;
+use Justfire\Util\HtmlStructure\Form\FormItemInterface;
+use Justfire\Util\HtmlStructure\Form\FormItemSelect;
+use Justfire\Util\HtmlStructure\Form\FormItemTable;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Html\Js;
+use Justfire\Util\HtmlStructure\Html\Js\JsFunc;
+use Justfire\Util\HtmlStructure\Html\StaticResource;
+use Justfire\Util\HtmlStructure\Layout;
+use Justfire\Util\HtmlStructure\Table;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\FormItemTableThemeInterface;
+use Justfire\Util\Tool;
 
 class FormItemTableTheme extends AbstractFormItemTheme implements FormItemTableThemeInterface
 {

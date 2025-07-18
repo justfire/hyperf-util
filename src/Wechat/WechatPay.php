@@ -1,15 +1,15 @@
 <?php
 
-namespace Sc\Util\Wechat;
+namespace Justfire\Util\Wechat;
 
-use Sc\Util\Attributes\StaticCallAttribute;
-use Sc\Util\StaticCall;
-use Sc\Util\Wechat\Pay\Common;
-use Sc\Util\Wechat\Pay\Notice\RefundNotice;
-use Sc\Util\Wechat\Pay\Type\Applet;
-use Sc\Util\Wechat\Pay\Type\H5;
-use Sc\Util\Wechat\Pay\Notice\PayNotice;
-use Sc\Util\Wechat\Pay\Type\JsApi;
+use Justfire\Util\Attributes\StaticCallAttribute;
+use Justfire\Util\StaticCall;
+use Justfire\Util\Wechat\Pay\Common;
+use Justfire\Util\Wechat\Pay\Notice\RefundNotice;
+use Justfire\Util\Wechat\Pay\Type\Applet;
+use Justfire\Util\Wechat\Pay\Type\H5;
+use Justfire\Util\Wechat\Pay\Notice\PayNotice;
+use Justfire\Util\Wechat\Pay\Type\JsApi;
 
 /**
  * 微信支付
@@ -32,6 +32,6 @@ class WechatPay extends StaticCall
 {
     protected static function getClassFullyQualifiedName(string $shortClassName): string
     {
-        return "Sc\\Util\\Wechat\\Pay\\Type\\$shortClassName";
+        return "Justfire\\Util\\Wechat\\Pay\\Type\\$shortClassName";
     }
 }

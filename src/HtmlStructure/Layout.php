@@ -1,11 +1,11 @@
 <?php
 
-namespace Sc\Util\HtmlStructure;
+namespace Justfire\Util\HtmlStructure;
 
 use JetBrains\PhpStorm\ExpectedValues;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Theme\Interfaces\LayoutThemeInterface;
-use Sc\Util\HtmlStructure\Theme\Theme;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\LayoutThemeInterface;
+use Justfire\Util\HtmlStructure\Theme\Theme;
 
 /**
  * 布局容器

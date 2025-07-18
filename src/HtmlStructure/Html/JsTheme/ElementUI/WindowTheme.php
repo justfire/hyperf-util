@@ -3,18 +3,18 @@
  * datetime: 2023/6/2 0:53
  **/
 
-namespace Sc\Util\HtmlStructure\Html\JsTheme\ElementUI;
+namespace Justfire\Util\HtmlStructure\Html\JsTheme\ElementUI;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlElement\ElementType\DoubleLabel;
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Html\Js\JsCode;
-use Sc\Util\HtmlStructure\Html\Js\JsFunc;
-use Sc\Util\HtmlStructure\Html\Js\JsVar;
-use Sc\Util\HtmlStructure\Html\Js\Window;
-use Sc\Util\HtmlStructure\Html\JsTheme\Interfaces\WindowThemeInterface;
-use Sc\Util\HtmlStructure\Html\StaticResource;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlElement\ElementType\DoubleLabel;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Html\Js\JsCode;
+use Justfire\Util\HtmlStructure\Html\Js\JsFunc;
+use Justfire\Util\HtmlStructure\Html\Js\JsVar;
+use Justfire\Util\HtmlStructure\Html\Js\Window;
+use Justfire\Util\HtmlStructure\Html\JsTheme\Interfaces\WindowThemeInterface;
+use Justfire\Util\HtmlStructure\Html\StaticResource;
 
 class WindowTheme implements WindowThemeInterface
 {

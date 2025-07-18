@@ -1,9 +1,9 @@
 <?php
 
-namespace Sc\Util\ClassFile\Components;
+namespace Justfire\Util\ClassFile\Components;
 
 use JetBrains\PhpStorm\ExpectedValues;
-use Sc\Util\ClassFile\Components\Out\ValueOut;
+use Justfire\Util\ClassFile\Components\Out\ValueOut;
 
 /**
  * Class Property

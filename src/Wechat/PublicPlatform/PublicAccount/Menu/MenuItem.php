@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\Wechat\PublicPlatform\PublicAccount\Menu;
+namespace Justfire\Util\Wechat\PublicPlatform\PublicAccount\Menu;
 
 use JetBrains\PhpStorm\ExpectedValues;
 

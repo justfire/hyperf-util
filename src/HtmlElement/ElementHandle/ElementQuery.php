@@ -3,14 +3,14 @@
  * datetime: 2023/4/15 12:05
  **/
 
-namespace Sc\Util\HtmlElement\ElementHandle;
+namespace Justfire\Util\HtmlElement\ElementHandle;
 
 use JetBrains\PhpStorm\Language;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlElement\ElementType\DoubleLabel;
-use Sc\Util\HtmlElement\ElementType\FictitiousLabel;
-use Sc\Util\HtmlElement\ElementType\TextCharacters;
-use Sc\Util\HtmlElement\StopEachException;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlElement\ElementType\DoubleLabel;
+use Justfire\Util\HtmlElement\ElementType\FictitiousLabel;
+use Justfire\Util\HtmlElement\ElementType\TextCharacters;
+use Justfire\Util\HtmlElement\StopEachException;
 
 trait ElementQuery
 {

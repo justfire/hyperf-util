@@ -1,11 +1,11 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Theme\ElementUI;
+namespace Justfire\Util\HtmlStructure\Theme\ElementUI;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Layout;
-use Sc\Util\HtmlStructure\Theme\Interfaces\LayoutThemeInterface;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Layout;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\LayoutThemeInterface;
 
 /**
  * Class LayoutTheme

@@ -3,20 +3,20 @@
  * datetime: 2023/5/15 0:31
  **/
 
-namespace Sc\Util\HtmlStructure\Html\Js;
+namespace Justfire\Util\HtmlStructure\Html\Js;
 
 use JetBrains\PhpStorm\ExpectedValues;
 use JetBrains\PhpStorm\Language;
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Html\Js\VueComponents\VueComponentInterface;
-use Sc\Util\HtmlStructure\Html\StaticResource;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Html\Js\VueComponents\VueComponentInterface;
+use Justfire\Util\HtmlStructure\Html\StaticResource;
 
 /**
  * JS Vue3
  *
  * Class Vue
  *
- * @package Sc\Util\HtmlStructure\Html
+ * @package Justfire\Util\HtmlStructure\Html
  * @date    2023/5/15
  */
 class Vue

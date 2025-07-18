@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData;
+namespace Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData;
 
 /**
  * Class TextMessage

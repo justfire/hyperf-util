@@ -3,17 +3,17 @@
  * datetime: 2023/5/16 23:43
  **/
 
-namespace Sc\Util\HtmlStructure\Html\Js;
+namespace Justfire\Util\HtmlStructure\Html\Js;
 
 use JetBrains\PhpStorm\ExpectedValues;
-use Sc\Util\HtmlStructure\Html\Common;
+use Justfire\Util\HtmlStructure\Html\Common;
 
 /**
  * js变量
  *
  * Class Vars
  *
- * @package Sc\Util\HtmlStructure\Html\Js
+ * @package Justfire\Util\HtmlStructure\Html\Js
  * @date    2023/5/16
  */
 class JsVar

@@ -3,9 +3,9 @@
  * datetime: 2023/6/4 11:41
  **/
 
-namespace Sc\Util\HtmlStructure\Form;
+namespace Justfire\Util\HtmlStructure\Form;
 
-use Sc\Util\HtmlStructure\Form;
+use Justfire\Util\HtmlStructure\Form;
 
 /**
  * @method string|null getWhen()

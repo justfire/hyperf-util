@@ -3,9 +3,9 @@
  * datetime: 2023/6/4 12:22
  **/
 
-namespace Sc\Util\HtmlStructure\Form\ItemAttrs;
+namespace Justfire\Util\HtmlStructure\Form\ItemAttrs;
 
-use Sc\Util\HtmlStructure\Form;
+use Justfire\Util\HtmlStructure\Form;
 
 trait FormOrigin
 {

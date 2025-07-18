@@ -3,14 +3,14 @@
  * datetime: 2023/5/15 0:22
  **/
 
-namespace Sc\Util\HtmlStructure\Html;
+namespace Justfire\Util\HtmlStructure\Html;
 
 use JetBrains\PhpStorm\ExpectedValues;
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlElement\ElementType\DoubleLabel;
-use Sc\Util\HtmlStructure\Theme\Interfaces\ResourceThemeInterface;
-use Sc\Util\HtmlStructure\Theme\Theme;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlElement\ElementType\DoubleLabel;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\ResourceThemeInterface;
+use Justfire\Util\HtmlStructure\Theme\Theme;
 use Swoole\Coroutine;
 
 /**
@@ -22,7 +22,7 @@ use Swoole\Coroutine;
  * @method static DoubleLabel html()
  * @method static string theme()
  *
- * @package Sc\Util\HtmlStructure\Html
+ * @package Justfire\Util\HtmlStructure\Html
  * @date    2023/5/15
  */
 class Html

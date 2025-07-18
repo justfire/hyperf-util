@@ -1,13 +1,13 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Html\Js;
+namespace Justfire\Util\HtmlStructure\Html\Js;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Html\Js\VueComponents\VueComponentInterface;
-use Sc\Util\HtmlStructure\Html\JsTheme\Interfaces\WindowThemeInterface;
-use Sc\Util\HtmlStructure\Html\JsTheme\JsTheme;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Html\Js\VueComponents\VueComponentInterface;
+use Justfire\Util\HtmlStructure\Html\JsTheme\Interfaces\WindowThemeInterface;
+use Justfire\Util\HtmlStructure\Html\JsTheme\JsTheme;
 
 /**
  * Class Window

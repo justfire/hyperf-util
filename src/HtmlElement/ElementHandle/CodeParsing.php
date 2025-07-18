@@ -3,19 +3,19 @@
  * datetime: 2023/4/14 1:24
  **/
 
-namespace Sc\Util\HtmlElement\ElementHandle;
+namespace Justfire\Util\HtmlElement\ElementHandle;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlElement\ElementType\FictitiousLabel;
-use Sc\Util\HtmlElement\ElementType\SingleLabel;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlElement\ElementType\FictitiousLabel;
+use Justfire\Util\HtmlElement\ElementType\SingleLabel;
 
 /**
  * 代码解析
  *
  * Class CodeParsing
  *
- * @package Sc\Util\HtmlElement
+ * @package Justfire\Util\HtmlElement
  * @date    2023/4/14
  */
 class CodeParsing

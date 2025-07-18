@@ -5,7 +5,7 @@
  **/
 
 
-namespace Sc\Util\Wechat\Pay\Type\Params;
+namespace Justfire\Util\Wechat\Pay\Type\Params;
 
 /**
  * 单品商品信息

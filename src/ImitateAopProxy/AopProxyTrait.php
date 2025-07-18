@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\ImitateAopProxy;
+namespace Justfire\Util\ImitateAopProxy;
 
 /**
  * 仿造AOP的代理类Trait

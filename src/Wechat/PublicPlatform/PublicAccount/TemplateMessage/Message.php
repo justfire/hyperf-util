@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\Wechat\PublicPlatform\PublicAccount\TemplateMessage;
+namespace Justfire\Util\Wechat\PublicPlatform\PublicAccount\TemplateMessage;
 
 /**
  * 消息内容

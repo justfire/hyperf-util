@@ -1,12 +1,12 @@
 <?php
 
-namespace Sc\Util\Wechat;
+namespace Justfire\Util\Wechat;
 
-use Sc\Util\StaticCall;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\Menu;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageManger;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\TemplateMessage;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\User;
+use Justfire\Util\StaticCall;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\Menu;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageManger;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\TemplateMessage;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\User;
 
 /**
  * 微信公众号
@@ -31,6 +31,6 @@ class WechatPublic extends StaticCall
      */
     protected static function getClassFullyQualifiedName(string $shortClassName): string
     {
-        return sprintf('Sc\\Util\\Wechat\\PublicPlatform\\PublicAccount\\%s', $shortClassName);
+        return sprintf('Justfire\\Util\\Wechat\\PublicPlatform\\PublicAccount\\%s', $shortClassName);
     }
 }

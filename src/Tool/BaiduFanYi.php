@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\Tool;
+namespace Justfire\Util\Tool;
 
 /**
  * 百度翻译

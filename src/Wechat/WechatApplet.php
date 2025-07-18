@@ -1,13 +1,13 @@
 <?php
 
-namespace Sc\Util\Wechat;
+namespace Justfire\Util\Wechat;
 
-use Sc\Util\Attributes\StaticCallAttribute;
-use Sc\Util\StaticCall;
-use Sc\Util\Wechat\PublicPlatform\Applet\Login;
-use Sc\Util\Wechat\PublicPlatform\Applet\PhoneNumber;
-use Sc\Util\Wechat\PublicPlatform\Applet\QRCode;
-use Sc\Util\Wechat\PublicPlatform\Applet\UniformMessage;
+use Justfire\Util\Attributes\StaticCallAttribute;
+use Justfire\Util\StaticCall;
+use Justfire\Util\Wechat\PublicPlatform\Applet\Login;
+use Justfire\Util\Wechat\PublicPlatform\Applet\PhoneNumber;
+use Justfire\Util\Wechat\PublicPlatform\Applet\QRCode;
+use Justfire\Util\Wechat\PublicPlatform\Applet\UniformMessage;
 
 /**
  * 微信小程序
@@ -38,6 +38,6 @@ class WechatApplet extends StaticCall
      */
     protected static function getClassFullyQualifiedName(string $shortClassName): string
     {
-        return sprintf('Sc\\Util\\Wechat\\PublicPlatform\\Applet\\%s', $shortClassName);
+        return sprintf('Justfire\\Util\\Wechat\\PublicPlatform\\Applet\\%s', $shortClassName);
     }
 }

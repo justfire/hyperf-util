@@ -1,8 +1,8 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Form\ItemAttrs;
+namespace Justfire\Util\HtmlStructure\Form\ItemAttrs;
 
-use Sc\Util\HtmlStructure\Html\Js\JsFunc;
+use Justfire\Util\HtmlStructure\Html\Js\JsFunc;
 
 /**
  * Class Events

@@ -1,9 +1,9 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Html\JsTheme;
+namespace Justfire\Util\HtmlStructure\Html\JsTheme;
 
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Theme\Theme;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Theme\Theme;
 
 /**
  * Class JsTheme

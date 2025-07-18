@@ -1,14 +1,14 @@
 <?php
 
-namespace Sc\Util\Wechat\PublicPlatform\PublicAccount;
+namespace Justfire\Util\Wechat\PublicPlatform\PublicAccount;
 
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ImageMessageData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\LinkMessageData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\LocationMessageData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ShortVideoMessageData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\TextMessageData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\VideoMessageData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\VoiceMessageData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ImageMessageData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\LinkMessageData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\LocationMessageData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ShortVideoMessageData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\TextMessageData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\VideoMessageData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\VoiceMessageData;
 
 /**
  * Interface MessageHandlerInterface

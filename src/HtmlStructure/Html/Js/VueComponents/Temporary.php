@@ -1,16 +1,16 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Html\Js\VueComponents;
+namespace Justfire\Util\HtmlStructure\Html\Js\VueComponents;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Html\Js;
-use Sc\Util\HtmlStructure\Html\Js\JsCode;
-use Sc\Util\HtmlStructure\Html\Js\JsFunc;
-use Sc\Util\HtmlStructure\Html\Js\JsIf;
-use Sc\Util\HtmlStructure\Html\Js\JsVar;
-use Sc\Util\HtmlStructure\Html\Js\Vue;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Html\Js;
+use Justfire\Util\HtmlStructure\Html\Js\JsCode;
+use Justfire\Util\HtmlStructure\Html\Js\JsFunc;
+use Justfire\Util\HtmlStructure\Html\Js\JsIf;
+use Justfire\Util\HtmlStructure\Html\Js\JsVar;
+use Justfire\Util\HtmlStructure\Html\Js\Vue;
 
 /**
  * 临时组件

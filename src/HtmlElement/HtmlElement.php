@@ -3,20 +3,20 @@
  * datetime: 2023/4/13 0:09
  **/
 
-namespace Sc\Util\HtmlElement;
-use Sc\Util\HtmlElement\ElementHandle\CodeParsing;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlElement\ElementType\DoubleLabel;
-use Sc\Util\HtmlElement\ElementType\FictitiousLabel;
-use Sc\Util\HtmlElement\ElementType\SingleLabel;
-use Sc\Util\HtmlElement\ElementType\TextCharacters;
+namespace Justfire\Util\HtmlElement;
+use Justfire\Util\HtmlElement\ElementHandle\CodeParsing;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlElement\ElementType\DoubleLabel;
+use Justfire\Util\HtmlElement\ElementType\FictitiousLabel;
+use Justfire\Util\HtmlElement\ElementType\SingleLabel;
+use Justfire\Util\HtmlElement\ElementType\TextCharacters;
 
 /**
  * Html 元素对象
  *
  * Class Element
  *
- * @package Sc\Util\Tool
+ * @package Justfire\Util\Tool
  * @date    2023/4/13
  */
 class HtmlElement

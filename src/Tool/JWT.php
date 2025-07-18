@@ -6,7 +6,7 @@
  * Time: 10:35
  */
 
-namespace Sc\Util\Tool;
+namespace Justfire\Util\Tool;
 
 use JetBrains\PhpStorm\ExpectedValues;
 

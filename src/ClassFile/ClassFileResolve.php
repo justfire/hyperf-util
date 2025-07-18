@@ -1,14 +1,14 @@
 <?php
 
-namespace Sc\Util\ClassFile;
+namespace Justfire\Util\ClassFile;
 
-use Sc\Util\ClassFile\Components\Attribute;
-use Sc\Util\ClassFile\Components\ClassFileConstruction;
-use Sc\Util\ClassFile\Components\Constant;
-use Sc\Util\ClassFile\Components\Method;
-use Sc\Util\ClassFile\Components\FunctionParam;
-use Sc\Util\ClassFile\Components\Out\RawOut;
-use Sc\Util\ClassFile\Components\Property;
+use Justfire\Util\ClassFile\Components\Attribute;
+use Justfire\Util\ClassFile\Components\ClassFileConstruction;
+use Justfire\Util\ClassFile\Components\Constant;
+use Justfire\Util\ClassFile\Components\Method;
+use Justfire\Util\ClassFile\Components\FunctionParam;
+use Justfire\Util\ClassFile\Components\Out\RawOut;
+use Justfire\Util\ClassFile\Components\Property;
 
 /**
  * 类文件解析服务

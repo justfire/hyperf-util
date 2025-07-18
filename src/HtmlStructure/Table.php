@@ -3,18 +3,18 @@
  * datetime: 2023/5/25 23:53
  **/
 
-namespace Sc\Util\HtmlStructure;
+namespace Justfire\Util\HtmlStructure;
 
 use JetBrains\PhpStorm\ExpectedValues;
 use JetBrains\PhpStorm\Language;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Form\FormItemInterface;
-use Sc\Util\HtmlStructure\Html\Js\JsCode;
-use Sc\Util\HtmlStructure\Table\Column;
-use Sc\Util\HtmlStructure\Table\EventHandler;
-use Sc\Util\HtmlStructure\Theme\Interfaces\TableThemeInterface;
-use Sc\Util\HtmlStructure\Theme\Theme;
-use Sc\Util\Tool;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Form\FormItemInterface;
+use Justfire\Util\HtmlStructure\Html\Js\JsCode;
+use Justfire\Util\HtmlStructure\Table\Column;
+use Justfire\Util\HtmlStructure\Table\EventHandler;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\TableThemeInterface;
+use Justfire\Util\HtmlStructure\Theme\Theme;
+use Justfire\Util\Tool;
 
 class Table
 {

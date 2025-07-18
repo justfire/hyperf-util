@@ -3,22 +3,22 @@
  * datetime: 2023/5/15 0:25
  **/
 
-namespace Sc\Util\HtmlStructure\Html;
+namespace Justfire\Util\HtmlStructure\Html;
 
 
 use JetBrains\PhpStorm\ExpectedValues;
 use JetBrains\PhpStorm\Language;
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlStructure\Html\Js\JsCode;
-use Sc\Util\HtmlStructure\Html\Js\JsFor;
-use Sc\Util\HtmlStructure\Html\Js\JsFunc;
-use Sc\Util\HtmlStructure\Html\Js\Grammar;
-use Sc\Util\HtmlStructure\Html\Js\JsIf;
-use Sc\Util\HtmlStructure\Html\Js\JsLog;
-use Sc\Util\HtmlStructure\Html\Js\JsSwitch;
-use Sc\Util\HtmlStructure\Html\Js\Layui;
-use Sc\Util\HtmlStructure\Html\Js\JsVar;
-use Sc\Util\HtmlStructure\Html\Js\Vue;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlStructure\Html\Js\JsCode;
+use Justfire\Util\HtmlStructure\Html\Js\JsFor;
+use Justfire\Util\HtmlStructure\Html\Js\JsFunc;
+use Justfire\Util\HtmlStructure\Html\Js\Grammar;
+use Justfire\Util\HtmlStructure\Html\Js\JsIf;
+use Justfire\Util\HtmlStructure\Html\Js\JsLog;
+use Justfire\Util\HtmlStructure\Html\Js\JsSwitch;
+use Justfire\Util\HtmlStructure\Html\Js\Layui;
+use Justfire\Util\HtmlStructure\Html\Js\JsVar;
+use Justfire\Util\HtmlStructure\Html\Js\Vue;
 
 /**
  * Html页面的js
@@ -28,7 +28,7 @@ use Sc\Util\HtmlStructure\Html\Js\Vue;
  * @property Vue $vue
  * @property Layui $layui
  *
- * @package Sc\Util\HtmlStructure\Html
+ * @package Justfire\Util\HtmlStructure\Html
  * @date    2023/5/15
  */
 class Js

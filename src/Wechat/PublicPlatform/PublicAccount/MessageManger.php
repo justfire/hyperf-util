@@ -1,12 +1,12 @@
 <?php
 
-namespace Sc\Util\Wechat\PublicPlatform\PublicAccount;
+namespace Justfire\Util\Wechat\PublicPlatform\PublicAccount;
 
-use Sc\Util\Tool\HtmlDocument;
-use Sc\Util\Wechat\Config;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\SubscribeEventData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\TextMessageData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\Tool\WXBizMsgCrypt;
+use Justfire\Util\Tool\HtmlDocument;
+use Justfire\Util\Wechat\Config;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\SubscribeEventData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\TextMessageData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\Tool\WXBizMsgCrypt;
 
 /**
  * 公众号消息管理

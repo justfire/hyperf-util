@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\ImitateAopProxy\Interfaces;
+namespace Justfire\Util\ImitateAopProxy\Interfaces;
 
 /**
  * 切面注解

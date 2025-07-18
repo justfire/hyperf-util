@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\Tool\Excel;
+namespace Justfire\Util\Tool\Excel;
 
 use Hyperf\HttpServer\Contract\ResponseInterface;
 use Vtiful\Kernel\Excel;
@@ -234,7 +234,7 @@ class XlsWriter extends Excel implements ExcelInterface
      */
     public static function columnTag(int $columnIndex): string
     {
-        return \Sc\Util\Tool\Excel::columnTag($columnIndex);
+        return \Justfire\Util\Tool\Excel::columnTag($columnIndex);
     }
 
     /**

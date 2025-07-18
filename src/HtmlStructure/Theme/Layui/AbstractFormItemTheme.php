@@ -1,11 +1,11 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Theme\Layui;
+namespace Justfire\Util\HtmlStructure\Theme\Layui;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Form\FormItemAttrGetter;
-use Sc\Util\HtmlStructure\Form\FormItemInterface;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Form\FormItemAttrGetter;
+use Justfire\Util\HtmlStructure\Form\FormItemInterface;
 
 /**
  * Class AbstractFormItemTheme

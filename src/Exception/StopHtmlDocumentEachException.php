@@ -4,11 +4,11 @@
  * user    : chenlong<vip_chenlong@163.com>
  **/
 
-namespace Sc\Util\Exception;
+namespace Justfire\Util\Exception;
 
 /**
  * Class StopHtmlDocumentEachException
- * @package Sc\Util\Exception
+ * @package Justfire\Util\Exception
  * @author chenlong<vip_chenlong@163.com>
  * @date 2022/2/26
  */

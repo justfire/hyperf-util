@@ -1,11 +1,11 @@
 <?php
 
-namespace Sc\Util\Wechat\Pay;
+namespace Justfire\Util\Wechat\Pay;
 
-use Sc\Util\Wechat\Config;
-use Sc\Util\Wechat\Execption\WechatException;
-use Sc\Util\Wechat\Pay\Common\CloseOrder;
-use Sc\Util\Wechat\Pay\Common\Refund;
+use Justfire\Util\Wechat\Config;
+use Justfire\Util\Wechat\Execption\WechatException;
+use Justfire\Util\Wechat\Pay\Common\CloseOrder;
+use Justfire\Util\Wechat\Pay\Common\Refund;
 
 /**
  * Class Common

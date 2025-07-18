@@ -3,13 +3,13 @@
  * datetime: 2023/6/3 23:16
  **/
 
-namespace Sc\Util\HtmlStructure\Theme\ElementUI;
+namespace Justfire\Util\HtmlStructure\Theme\ElementUI;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Form\FormItemAttrGetter;
-use Sc\Util\HtmlStructure\Form\FormItemHidden;
-use Sc\Util\HtmlStructure\Theme\Interfaces\FormItemHiddenThemeInterface;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Form\FormItemAttrGetter;
+use Justfire\Util\HtmlStructure\Form\FormItemHidden;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\FormItemHiddenThemeInterface;
 
 class FormItemHiddenTheme extends AbstractFormItemTheme implements FormItemHiddenThemeInterface
 {

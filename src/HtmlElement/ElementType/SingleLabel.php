@@ -3,17 +3,17 @@
  * datetime: 2023/4/13 0:18
  **/
 
-namespace Sc\Util\HtmlElement\ElementType;
+namespace Justfire\Util\HtmlElement\ElementType;
 
-use Sc\Util\HtmlElement\ElementHandle\ElementQuery;
-use Sc\Util\HtmlElement\ElementHandle\LabelAttr;
+use Justfire\Util\HtmlElement\ElementHandle\ElementQuery;
+use Justfire\Util\HtmlElement\ElementHandle\LabelAttr;
 
 /**
  * 单标签
  *
  * Class SingleLabel
  *
- * @package Sc\Util\Element
+ * @package Justfire\Util\Element
  * @date    2023/4/13
  */
 class SingleLabel extends AbstractHtmlElement

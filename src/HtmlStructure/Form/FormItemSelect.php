@@ -1,22 +1,22 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Form;
+namespace Justfire\Util\HtmlStructure\Form;
 
 use JetBrains\PhpStorm\Language;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Form\ItemAttrs\Attrs;
-use Sc\Util\HtmlStructure\Form\ItemAttrs\DefaultConstruct;
-use Sc\Util\HtmlStructure\Form\ItemAttrs\DefaultValue;
-use Sc\Util\HtmlStructure\Form\ItemAttrs\Events;
-use Sc\Util\HtmlStructure\Form\ItemAttrs\FormOrigin;
-use Sc\Util\HtmlStructure\Form\ItemAttrs\LabelWidth;
-use Sc\Util\HtmlStructure\Form\ItemAttrs\Options;
-use Sc\Util\HtmlStructure\Form\ItemAttrs\Placeholder;
-use Sc\Util\HtmlStructure\Form\ItemAttrs\Validate;
-use Sc\Util\HtmlStructure\Html\Js\JsFunc;
-use Sc\Util\HtmlStructure\Theme\Interfaces\FormItemSelectThemeInterface;
-use Sc\Util\HtmlStructure\Theme\Theme;
-use Sc\Util\Tool\Url;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Form\ItemAttrs\Attrs;
+use Justfire\Util\HtmlStructure\Form\ItemAttrs\DefaultConstruct;
+use Justfire\Util\HtmlStructure\Form\ItemAttrs\DefaultValue;
+use Justfire\Util\HtmlStructure\Form\ItemAttrs\Events;
+use Justfire\Util\HtmlStructure\Form\ItemAttrs\FormOrigin;
+use Justfire\Util\HtmlStructure\Form\ItemAttrs\LabelWidth;
+use Justfire\Util\HtmlStructure\Form\ItemAttrs\Options;
+use Justfire\Util\HtmlStructure\Form\ItemAttrs\Placeholder;
+use Justfire\Util\HtmlStructure\Form\ItemAttrs\Validate;
+use Justfire\Util\HtmlStructure\Html\Js\JsFunc;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\FormItemSelectThemeInterface;
+use Justfire\Util\HtmlStructure\Theme\Theme;
+use Justfire\Util\Tool\Url;
 
 /**
  * Class FormItemSelect

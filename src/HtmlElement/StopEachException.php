@@ -3,12 +3,12 @@
  * datetime: 2023/4/18 1:22
  **/
 
-namespace Sc\Util\HtmlElement;
+namespace Justfire\Util\HtmlElement;
 
 /**
  * Class StopEachException
  *
- * @package Sc\Util\HtmlElement
+ * @package Justfire\Util\HtmlElement
  * @date    2023/5/4
  */
 class StopEachException extends \Exception

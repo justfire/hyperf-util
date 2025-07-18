@@ -1,8 +1,8 @@
 <?php
 
-namespace Sc\Util\Tool;
+namespace Justfire\Util\Tool;
 
-use Sc\Util\Tool\Locks\LockInterface;
+use Justfire\Util\Tool\Locks\LockInterface;
 
 /**
  * Class Lock

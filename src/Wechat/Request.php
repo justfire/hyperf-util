@@ -1,8 +1,8 @@
 <?php
 
-namespace Sc\Util\Wechat;
+namespace Justfire\Util\Wechat;
 
-use Sc\Util\Wechat\Execption\WechatException;
+use Justfire\Util\Wechat\Execption\WechatException;
 
 /**
  * Class Request

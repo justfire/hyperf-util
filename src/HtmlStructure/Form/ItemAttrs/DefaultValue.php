@@ -3,11 +3,11 @@
  * datetime: 2023/6/4 11:18
  **/
 
-namespace Sc\Util\HtmlStructure\Form\ItemAttrs;
+namespace Justfire\Util\HtmlStructure\Form\ItemAttrs;
 
-use Sc\Util\HtmlStructure\Form\FormItemAttrGetter;
-use Sc\Util\HtmlStructure\Form\FormItemInterface;
-use Sc\Util\HtmlStructure\Form\FormItemTable;
+use Justfire\Util\HtmlStructure\Form\FormItemAttrGetter;
+use Justfire\Util\HtmlStructure\Form\FormItemInterface;
+use Justfire\Util\HtmlStructure\Form\FormItemTable;
 
 trait DefaultValue
 {

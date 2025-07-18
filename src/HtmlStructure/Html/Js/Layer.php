@@ -3,9 +3,9 @@
  * datetime: 2023/5/19 3:06
  **/
 
-namespace Sc\Util\HtmlStructure\Html\Js;
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Html\Js;
+namespace Justfire\Util\HtmlStructure\Html\Js;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Html\Js;
 
 /**
  * Js Layer
@@ -36,7 +36,7 @@ use Sc\Util\HtmlStructure\Html\Js;
  * @method static Layer min(int|mixed $index)  设置弹层最小化尺寸。
  * @method static Layer restore(int|mixed $index,)  还原弹层尺寸。
  *
- * @package Sc\Util\HtmlStructure\Html\Js
+ * @package Justfire\Util\HtmlStructure\Html\Js
  * @date    2023/5/19
  */
 class Layer

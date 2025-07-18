@@ -3,17 +3,17 @@
  * datetime: 2023/4/13 0:19
  **/
 
-namespace Sc\Util\HtmlElement\ElementType;
+namespace Justfire\Util\HtmlElement\ElementType;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementHandle\LabelAttr;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementHandle\LabelAttr;
 
 /**
  * 双标签
  *
  * Class DoubleLabel
  *
- * @package Sc\Util\Element
+ * @package Justfire\Util\Element
  * @date    2023/4/13
  */
 class DoubleLabel extends AbstractHtmlElement

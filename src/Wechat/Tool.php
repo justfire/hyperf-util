@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\Wechat;
+namespace Justfire\Util\Wechat;
 
 /**
  * Class Tool

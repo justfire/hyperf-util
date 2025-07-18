@@ -1,10 +1,10 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Html\JsTheme\ElementUI;
+namespace Justfire\Util\HtmlStructure\Html\JsTheme\ElementUI;
 
-use Sc\Util\HtmlStructure\Html\Js\JsFunc;
-use Sc\Util\HtmlStructure\Html\Js\JsService;
-use Sc\Util\HtmlStructure\Html\JsTheme\Interfaces\JsServiceThemeInterface;
+use Justfire\Util\HtmlStructure\Html\Js\JsFunc;
+use Justfire\Util\HtmlStructure\Html\Js\JsService;
+use Justfire\Util\HtmlStructure\Html\JsTheme\Interfaces\JsServiceThemeInterface;
 
 /**
  * Class JsService

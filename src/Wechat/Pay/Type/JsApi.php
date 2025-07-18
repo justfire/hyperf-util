@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\Wechat\Pay\Type;
+namespace Justfire\Util\Wechat\Pay\Type;
 
 /**
  * Class JsApi

@@ -4,7 +4,7 @@
  * user    : chenlong<vip_chenlong@163.com>
  **/
 
-namespace Sc\Util\Tool;
+namespace Justfire\Util\Tool;
 
 class Tree
 {

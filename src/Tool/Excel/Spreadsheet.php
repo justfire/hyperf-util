@@ -1,12 +1,12 @@
 <?php
 
-namespace Sc\Util\Tool\Excel;
+namespace Justfire\Util\Tool\Excel;
 use Hyperf\HttpMessage\Stream\SwooleFileStream;
 use Hyperf\HttpServer\Contract\ResponseInterface;
 use PhpOffice\PhpSpreadsheet\IOFactory;
 use PhpOffice\PhpSpreadsheet\Style\Alignment;
 use PhpOffice\PhpSpreadsheet\Writer\Xlsx;
-use Sc\Util\Tool\Excel;
+use Justfire\Util\Tool\Excel;
 
 /**
  * 使用 PhpSpreadsheet

@@ -1,18 +1,18 @@
 <?php
 
-namespace Sc\Util\MysqlDataBackup;
+namespace Justfire\Util\MysqlDataBackup;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Form\FormItem;
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Html\Js;
-use Sc\Util\HtmlStructure\Html\Js\Axios;
-use Sc\Util\HtmlStructure\Html\Js\JsCode;
-use Sc\Util\HtmlStructure\Html\Js\JsFunc;
-use Sc\Util\HtmlStructure\Html\Js\Grammar;
-use Sc\Util\HtmlStructure\Html\Js\JsVar;
-use Sc\Util\HtmlStructure\Layout;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Form\FormItem;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Html\Js;
+use Justfire\Util\HtmlStructure\Html\Js\Axios;
+use Justfire\Util\HtmlStructure\Html\Js\JsCode;
+use Justfire\Util\HtmlStructure\Html\Js\JsFunc;
+use Justfire\Util\HtmlStructure\Html\Js\Grammar;
+use Justfire\Util\HtmlStructure\Html\Js\JsVar;
+use Justfire\Util\HtmlStructure\Layout;
 
 /**
  * Class Page

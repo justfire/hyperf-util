@@ -1,14 +1,14 @@
 <?php
 
-namespace Sc\Util\Wechat\PublicPlatform\Applet;
+namespace Justfire\Util\Wechat\PublicPlatform\Applet;
 
 use Psr\SimpleCache\InvalidArgumentException;
-use Sc\Util\Wechat\Config;
-use Sc\Util\Wechat\Execption\WechatException;
-use Sc\Util\Wechat\PublicPlatform\AccessToken;
-use Sc\Util\Wechat\PublicPlatform\Applet\SubscribeMessage\Message;
-use Sc\Util\Wechat\Request;
-use Sc\Util\Wechat\Response;
+use Justfire\Util\Wechat\Config;
+use Justfire\Util\Wechat\Execption\WechatException;
+use Justfire\Util\Wechat\PublicPlatform\AccessToken;
+use Justfire\Util\Wechat\PublicPlatform\Applet\SubscribeMessage\Message;
+use Justfire\Util\Wechat\Request;
+use Justfire\Util\Wechat\Response;
 
 /**
  * 订阅消息

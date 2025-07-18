@@ -3,7 +3,7 @@
  * datetime: 2023/5/16 0:07
  **/
 
-namespace Sc\Util\HtmlStructure\Html\Js;
+namespace Justfire\Util\HtmlStructure\Html\Js;
 use JetBrains\PhpStorm\Language;
 
 /**
@@ -11,7 +11,7 @@ use JetBrains\PhpStorm\Language;
  *
  * Class Func
  *
- * @package Sc\Util\HtmlStructure\Html\Js
+ * @package Justfire\Util\HtmlStructure\Html\Js
  * @date    2023/5/16
  */
 class JsFunc
@@ -136,7 +136,7 @@ class JsFunc
         $params = $this->params;
 
         array_walk_recursive($params, function (&$value) {
-            if (is_numeric($value) || ($value instanceof \Stringable && str_starts_with(get_class($value), 'Sc\\Util\\HtmlStructure\\Html\\Js'))){
+            if (is_numeric($value) || ($value instanceof \Stringable && str_starts_with(get_class($value), 'Justfire\\Util\\HtmlStructure\\Html\\Js'))){
                 $value = Grammar::mark($value);
             }
         });

@@ -1,11 +1,11 @@
 <?php
 
-namespace Sc\Util\Wechat\Pay\Type;
+namespace Justfire\Util\Wechat\Pay\Type;
 
-use Sc\Util\Wechat\Execption\WechatException;
-use Sc\Util\Wechat\Request;
-use Sc\Util\Wechat\Tool;
-use Sc\Util\Wechat\WechatPay;
+use Justfire\Util\Wechat\Execption\WechatException;
+use Justfire\Util\Wechat\Request;
+use Justfire\Util\Wechat\Tool;
+use Justfire\Util\Wechat\WechatPay;
 
 /**
  * Trait DataHandle

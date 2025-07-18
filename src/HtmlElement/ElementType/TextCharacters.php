@@ -3,14 +3,14 @@
  * datetime: 2023/4/13 0:20
  **/
 
-namespace Sc\Util\HtmlElement\ElementType;
+namespace Justfire\Util\HtmlElement\ElementType;
 
 /**
  * 纯文本字符
  *
  * Class PureText
  *
- * @package Sc\Util\Element
+ * @package Justfire\Util\Element
  * @date    2023/4/13
  */
 class TextCharacters extends AbstractHtmlElement

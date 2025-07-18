@@ -1,21 +1,21 @@
 <?php
 
-namespace Sc\Util\Wechat\PublicPlatform\PublicAccount;
+namespace Justfire\Util\Wechat\PublicPlatform\PublicAccount;
 
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ClickEventData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ImageMessageData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\LinkMessageData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\LocationEventData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\LocationMessageData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ScanEventData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ShortVideoMessageData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\SubscribeEventData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\TEMPLATESENDJOBFINISHEventData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\TextMessageData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\UnsubscribeEventData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\VideoMessageData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ViewEventData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\VoiceMessageData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ClickEventData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ImageMessageData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\LinkMessageData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\LocationEventData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\LocationMessageData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ScanEventData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ShortVideoMessageData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\SubscribeEventData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\TEMPLATESENDJOBFINISHEventData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\TextMessageData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\UnsubscribeEventData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\VideoMessageData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ViewEventData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\VoiceMessageData;
 
 /**
  * Class AbstractMessageHandler

@@ -1,8 +1,8 @@
 <?php
 
-namespace Sc\Util\Wechat\Pay\Notice\PayNoticeParams;
+namespace Justfire\Util\Wechat\Pay\Notice\PayNoticeParams;
 
-use Sc\Util\Wechat\Pay\Notice\SetData;
+use Justfire\Util\Wechat\Pay\Notice\SetData;
 
 /**
  * Class GoodsDetail

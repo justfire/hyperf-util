@@ -3,35 +3,35 @@
  * datetime: 2023/5/27 23:59
  **/
 
-namespace Sc\Util\HtmlStructure\Theme\Layui;
+namespace Justfire\Util\HtmlStructure\Theme\Layui;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlElement\ElementType\TextCharacters;
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Html\Js\Axios;
-use Sc\Util\HtmlStructure\Html\Js\JsCode;
-use Sc\Util\HtmlStructure\Html\Js\JsFunc;
-use Sc\Util\HtmlStructure\Html\Js\Grammar;
-use Sc\Util\HtmlStructure\Html\Js\JsVar;
-use Sc\Util\HtmlStructure\Table\Column;
-use Sc\Util\HtmlStructure\Theme\Interfaces\TableThemeInterface;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlElement\ElementType\TextCharacters;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Html\Js\Axios;
+use Justfire\Util\HtmlStructure\Html\Js\JsCode;
+use Justfire\Util\HtmlStructure\Html\Js\JsFunc;
+use Justfire\Util\HtmlStructure\Html\Js\Grammar;
+use Justfire\Util\HtmlStructure\Html\Js\JsVar;
+use Justfire\Util\HtmlStructure\Table\Column;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\TableThemeInterface;
 
 /**
  * Class Table
  *
- * @package Sc\Util\HtmlStructure\Theme\Layui
+ * @package Justfire\Util\HtmlStructure\Theme\Layui
  * @date    2023/5/28
  */
 class TableTheme implements TableThemeInterface
 {
     /**
-     * @param \Sc\Util\HtmlStructure\Table $table
+     * @param \Justfire\Util\HtmlStructure\Table $table
      *
      * @return AbstractHtmlElement
      * @date 2023/5/28
      */
-    public function render(\Sc\Util\HtmlStructure\Table $table): AbstractHtmlElement
+    public function render(\Justfire\Util\HtmlStructure\Table $table): AbstractHtmlElement
     {
         $id = $table->getId();
         if (!$id) {
@@ -48,11 +48,11 @@ class TableTheme implements TableThemeInterface
     }
 
     /**
-     * @param \Sc\Util\HtmlStructure\Table $table
+     * @param \Justfire\Util\HtmlStructure\Table $table
      *
      * @date 2023/5/28
      */
-    private function tableRenderCode(\Sc\Util\HtmlStructure\Table $table): void
+    private function tableRenderCode(\Justfire\Util\HtmlStructure\Table $table): void
     {
         $attrs = $table->getAttrs();
 
@@ -191,11 +191,11 @@ class TableTheme implements TableThemeInterface
     /**
      * 行事件处理
      *
-     * @param \Sc\Util\HtmlStructure\Table $table
+     * @param \Justfire\Util\HtmlStructure\Table $table
      *
      * @date 2023/6/1
      */
-    private function rowEventHandle(\Sc\Util\HtmlStructure\Table $table): void
+    private function rowEventHandle(\Justfire\Util\HtmlStructure\Table $table): void
     {
         /**
          * 让处理程序和事件 dom 关联

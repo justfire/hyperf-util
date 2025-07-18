@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Html\Js;
+namespace Justfire\Util\HtmlStructure\Html\Js;
 
 /**
  * Class Obj

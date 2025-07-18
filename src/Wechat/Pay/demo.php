@@ -1,8 +1,8 @@
 <?php
 
-use Sc\Util\Wechat\Config;
-use Sc\Util\Wechat\Execption\WechatException;
-use Sc\Util\Wechat\Pay\Params\SceneInfo;
+use Justfire\Util\Wechat\Config;
+use Justfire\Util\Wechat\Execption\WechatException;
+use Justfire\Util\Wechat\Pay\Params\SceneInfo;
 
 // 配置方式一
 $config = Config::base('appid', 'secret')
@@ -24,10 +24,10 @@ $config = Config::base([
  * H5 支付示例
  * 支付须提前配置支付相关配置
  */
-$h5 = \Sc\Util\Wechat\WechatPay::h5($config);
+$h5 = \Justfire\Util\Wechat\WechatPay::h5($config);
 
 $h5->notify_url  = sprintf("https://%s", $_SERVER['HTTP_HOST']);
-$h5->amount      = new \Sc\Util\Wechat\Pay\Params\Amount(1);
+$h5->amount      = new \Justfire\Util\Wechat\Pay\Params\Amount(1);
 $h5->description = 'test';
 $h5->scene_info  = new SceneInfo('127.0.0.1');
 

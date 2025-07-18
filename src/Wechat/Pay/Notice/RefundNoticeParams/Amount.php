@@ -3,14 +3,14 @@
  * datetime: 2023/2/15 0:28
  **/
 
-namespace Sc\Util\Wechat\Pay\Notice\RefundNoticeParams;
+namespace Justfire\Util\Wechat\Pay\Notice\RefundNoticeParams;
 
-use Sc\Util\Wechat\Pay\Notice\SetData;
+use Justfire\Util\Wechat\Pay\Notice\SetData;
 
 /**
  * Class Amount
  *
- * @package Sc\Util\Wechat\Pay\Notice\RefundNoticeParams
+ * @package Justfire\Util\Wechat\Pay\Notice\RefundNoticeParams
  * @date    2023/2/15
  */
 class Amount

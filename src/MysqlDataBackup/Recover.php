@@ -3,9 +3,9 @@
  * datetime: 2023/6/18 1:10
  **/
 
-namespace Sc\Util\MysqlDataBackup;
+namespace Justfire\Util\MysqlDataBackup;
 
-use Sc\Util\Tool;
+use Justfire\Util\Tool;
 
 class Recover
 {

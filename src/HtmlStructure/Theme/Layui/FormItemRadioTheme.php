@@ -1,12 +1,12 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Theme\Layui;
+namespace Justfire\Util\HtmlStructure\Theme\Layui;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Form\FormItemAttrGetter;
-use Sc\Util\HtmlStructure\Form\FormItemRadio;
-use Sc\Util\HtmlStructure\Theme\Interfaces\FormItemRadioThemeInterface;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Form\FormItemAttrGetter;
+use Justfire\Util\HtmlStructure\Form\FormItemRadio;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\FormItemRadioThemeInterface;
 
 /**
  * Class FormItemSelectThem

@@ -1,9 +1,9 @@
 <?php
 
-namespace Sc\Util\Wechat\Pay\Notice\RefundNoticeParams;
+namespace Justfire\Util\Wechat\Pay\Notice\RefundNoticeParams;
 
 use JetBrains\PhpStorm\ExpectedValues;
-use Sc\Util\Wechat\Pay\Notice\SetData;
+use Justfire\Util\Wechat\Pay\Notice\SetData;
 
 /**
  * 退货通知解密后的数据

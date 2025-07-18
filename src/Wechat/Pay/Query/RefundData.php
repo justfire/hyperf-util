@@ -1,10 +1,10 @@
 <?php
 
-namespace Sc\Util\Wechat\Pay\Query;
+namespace Justfire\Util\Wechat\Pay\Query;
 
-use Sc\Util\Wechat\Pay\AbstractDataGetter;
-use Sc\Util\Wechat\Pay\Query\Refund\Amount;
-use Sc\Util\Wechat\Pay\Query\Refund\PromotionDetail;
+use Justfire\Util\Wechat\Pay\AbstractDataGetter;
+use Justfire\Util\Wechat\Pay\Query\Refund\Amount;
+use Justfire\Util\Wechat\Pay\Query\Refund\PromotionDetail;
 
 /**
  * Class RefundData

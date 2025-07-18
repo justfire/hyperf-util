@@ -3,14 +3,14 @@
  * datetime: 2023/2/15 0:55
  **/
 
-namespace Sc\Util\Wechat\Pay\Notice;
+namespace Justfire\Util\Wechat\Pay\Notice;
 
 /**
  * 解析后的data设置到类属性
  *
  * Trait SetData
  *
- * @package Sc\Util\Wechat\Pay\Notice
+ * @package Justfire\Util\Wechat\Pay\Notice
  * @date    2023/2/15
  */
 trait SetData

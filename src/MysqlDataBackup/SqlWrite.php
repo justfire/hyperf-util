@@ -3,7 +3,7 @@
  * datetime: 2023/6/15 0:18
  **/
 
-namespace Sc\Util\MysqlDataBackup;
+namespace Justfire\Util\MysqlDataBackup;
 
 class SqlWrite
 {

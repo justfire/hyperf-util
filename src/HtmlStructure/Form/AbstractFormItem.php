@@ -3,11 +3,11 @@
  * datetime: 2023/6/4 0:28
  **/
 
-namespace Sc\Util\HtmlStructure\Form;
+namespace Justfire\Util\HtmlStructure\Form;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Form\ItemAttrs\Col;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Form\ItemAttrs\Col;
 
 /**
  * 表单项目
@@ -16,7 +16,7 @@ use Sc\Util\HtmlStructure\Form\ItemAttrs\Col;
  * @method $this setWhen(string $when) 何时展示 js 展示条件，可使用 when 方法代替
  * @method $this setHide(bool $where)  隐藏条件直接再php层面过滤
  *
- * @package Sc\Util\HtmlStructure\Form
+ * @package Justfire\Util\HtmlStructure\Form
  * @date    2023/6/4
  */
 abstract class AbstractFormItem

@@ -3,25 +3,25 @@
  * datetime: 2023/5/29 23:20
  **/
 
-namespace Sc\Util\HtmlStructure\Table;
+namespace Justfire\Util\HtmlStructure\Table;
 use JetBrains\PhpStorm\Language;
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Html\Js\Axios;
-use Sc\Util\HtmlStructure\Html\Js\JsCode;
-use Sc\Util\HtmlStructure\Html\Js\JsFunc;
-use Sc\Util\HtmlStructure\Html\Js\Grammar;
-use Sc\Util\HtmlStructure\Html\Js\JsService;
-use Sc\Util\HtmlStructure\Html\Js\Layer;
-use Sc\Util\HtmlStructure\Html\Js\JsVar;
-use Sc\Util\HtmlStructure\Html\Js\Window;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Html\Js\Axios;
+use Justfire\Util\HtmlStructure\Html\Js\JsCode;
+use Justfire\Util\HtmlStructure\Html\Js\JsFunc;
+use Justfire\Util\HtmlStructure\Html\Js\Grammar;
+use Justfire\Util\HtmlStructure\Html\Js\JsService;
+use Justfire\Util\HtmlStructure\Html\Js\Layer;
+use Justfire\Util\HtmlStructure\Html\Js\JsVar;
+use Justfire\Util\HtmlStructure\Html\Js\Window;
 
 /**
  * table 事件处理
  *
  * Class EventHandler
  *
- * @package Sc\Util\HtmlStructure\Table
+ * @package Justfire\Util\HtmlStructure\Table
  * @date    2023/5/29
  */
 class EventHandler

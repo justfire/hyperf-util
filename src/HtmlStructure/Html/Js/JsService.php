@@ -1,11 +1,11 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Html\Js;
+namespace Justfire\Util\HtmlStructure\Html\Js;
 
 use JetBrains\PhpStorm\ExpectedValues;
 use JetBrains\PhpStorm\Language;
-use Sc\Util\HtmlStructure\Html\JsTheme\Interfaces\JsServiceThemeInterface;
-use Sc\Util\HtmlStructure\Html\JsTheme\JsTheme;
+use Justfire\Util\HtmlStructure\Html\JsTheme\Interfaces\JsServiceThemeInterface;
+use Justfire\Util\HtmlStructure\Html\JsTheme\JsTheme;
 
 /**
  * Class JsService

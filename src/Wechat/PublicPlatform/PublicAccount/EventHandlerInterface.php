@@ -1,14 +1,14 @@
 <?php
 
-namespace Sc\Util\Wechat\PublicPlatform\PublicAccount;
+namespace Justfire\Util\Wechat\PublicPlatform\PublicAccount;
 
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ClickEventData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\LocationEventData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ScanEventData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\SubscribeEventData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\TEMPLATESENDJOBFINISHEventData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\UnsubscribeEventData;
-use Sc\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ViewEventData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ClickEventData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\LocationEventData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ScanEventData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\SubscribeEventData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\TEMPLATESENDJOBFINISHEventData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\UnsubscribeEventData;
+use Justfire\Util\Wechat\PublicPlatform\PublicAccount\MessageData\ViewEventData;
 
 /**
  * 事件处理

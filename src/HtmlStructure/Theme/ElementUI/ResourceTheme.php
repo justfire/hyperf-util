@@ -3,19 +3,19 @@
  * datetime: 2023/5/28 2:58
  **/
 
-namespace Sc\Util\HtmlStructure\Theme\ElementUI;
+namespace Justfire\Util\HtmlStructure\Theme\ElementUI;
 
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Html\Js;
-use Sc\Util\HtmlStructure\Html\Js\JsFunc;
-use Sc\Util\HtmlStructure\Html\Js\VueComponents\ElementIcon;
-use Sc\Util\HtmlStructure\Html\StaticResource;
-use Sc\Util\HtmlStructure\Theme\Interfaces\ResourceThemeInterface;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Html\Js;
+use Justfire\Util\HtmlStructure\Html\Js\JsFunc;
+use Justfire\Util\HtmlStructure\Html\Js\VueComponents\ElementIcon;
+use Justfire\Util\HtmlStructure\Html\StaticResource;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\ResourceThemeInterface;
 
 /**
  * Class ThemeResource
  *
- * @package Sc\Util\HtmlStructure\Theme\ElementUI
+ * @package Justfire\Util\HtmlStructure\Theme\ElementUI
  * @date    2023/5/28
  */
 class ResourceTheme implements ResourceThemeInterface

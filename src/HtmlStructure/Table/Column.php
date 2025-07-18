@@ -1,18 +1,18 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Table;
+namespace Justfire\Util\HtmlStructure\Table;
 
 use JetBrains\PhpStorm\ExpectedValues;
 use JetBrains\PhpStorm\Language;
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlElement\ElementType\FictitiousLabel;
-use Sc\Util\HtmlStructure\Form\FormItem;
-use Sc\Util\HtmlStructure\Form\FormItemInterface;
-use Sc\Util\HtmlStructure\Form\FormItemSelect;
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Theme\Interfaces\TableColumnThemeInterface;
-use Sc\Util\HtmlStructure\Theme\Theme;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlElement\ElementType\FictitiousLabel;
+use Justfire\Util\HtmlStructure\Form\FormItem;
+use Justfire\Util\HtmlStructure\Form\FormItemInterface;
+use Justfire\Util\HtmlStructure\Form\FormItemSelect;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\TableColumnThemeInterface;
+use Justfire\Util\HtmlStructure\Theme\Theme;
 use function Composer\Autoload\includeFile;
 
 /**
@@ -442,7 +442,7 @@ class Column
      * @param FormItemInterface|string|null $formItem
      * @param string                        $type
      *
-     * @return mixed|\Sc\Util\HtmlStructure\Form\FormItemDatetime|FormItemSelect|\Sc\Util\HtmlStructure\Form\FormItemText
+     * @return mixed|\Justfire\Util\HtmlStructure\Form\FormItemDatetime|FormItemSelect|\Justfire\Util\HtmlStructure\Form\FormItemText
      */
     private function autoMakeFormItem(FormItemInterface|string|null $formItem, string $type): mixed
     {

@@ -1,8 +1,8 @@
 <?php
 
-namespace Sc\Util\ImitateAopProxy;
+namespace Justfire\Util\ImitateAopProxy;
 
-use Sc\Util\ImitateAopProxy\Interfaces\ImitateAspectAttrInterface;
+use Justfire\Util\ImitateAopProxy\Interfaces\ImitateAspectAttrInterface;
 
 /**
  * 仿造AOP的代理类

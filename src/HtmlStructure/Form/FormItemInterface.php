@@ -3,9 +3,9 @@
  * datetime: 2023/6/3 2:35
  **/
 
-namespace Sc\Util\HtmlStructure\Form;
+namespace Justfire\Util\HtmlStructure\Form;
 
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
 
 interface FormItemInterface
 {

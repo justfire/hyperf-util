@@ -3,16 +3,16 @@
  * datetime: 2023/5/28 2:58
  **/
 
-namespace Sc\Util\HtmlStructure\Theme\Layui;
+namespace Justfire\Util\HtmlStructure\Theme\Layui;
 
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Html\StaticResource;
-use Sc\Util\HtmlStructure\Theme\Interfaces\ResourceThemeInterface;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Html\StaticResource;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\ResourceThemeInterface;
 
 /**
  * Class ThemeResource
  *
- * @package Sc\Util\HtmlStructure\Theme\Layui
+ * @package Justfire\Util\HtmlStructure\Theme\Layui
  * @date    2023/5/28
  */
 class ResourceTheme implements ResourceThemeInterface

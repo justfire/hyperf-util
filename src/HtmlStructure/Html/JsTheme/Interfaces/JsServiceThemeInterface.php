@@ -1,8 +1,8 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Html\JsTheme\Interfaces;
+namespace Justfire\Util\HtmlStructure\Html\JsTheme\Interfaces;
 
-use Sc\Util\HtmlStructure\Html\Js\JsService;
+use Justfire\Util\HtmlStructure\Html\Js\JsService;
 
 /**
  * Interface JsServiceThemeInterface

@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\Wechat\Pay\Type\Params;
+namespace Justfire\Util\Wechat\Pay\Type\Params;
 
 /**
  * Trait OptionalParameter

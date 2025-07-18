@@ -3,8 +3,8 @@
  * datetime: 2023/6/3 2:41
  **/
 
-namespace Sc\Util\HtmlStructure\Form;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
+namespace Justfire\Util\HtmlStructure\Form;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
 
 /**
  * 表单可用项目
@@ -31,7 +31,7 @@ use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
  * @method static FormItemUpload upload(string $name = null, ?string $label = null)
  * @method static FormItemCustomize customize(AbstractHtmlElement|string $element)
  *
- * @package Sc\Util\HtmlStructure\Form
+ * @package Justfire\Util\HtmlStructure\Form
  * @date    2023/6/3
  */
 abstract class FormItem

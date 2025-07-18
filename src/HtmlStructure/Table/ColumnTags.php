@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Table;
+namespace Justfire\Util\HtmlStructure\Table;
 
 /**
  * Class ColumnTags

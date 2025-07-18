@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\Wechat\Execption;
+namespace Justfire\Util\Wechat\Execption;
 
 /**
  * 微信请求异常类

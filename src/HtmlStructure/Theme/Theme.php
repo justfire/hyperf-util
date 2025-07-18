@@ -3,17 +3,17 @@
  * datetime: 2023/5/27 23:43
  **/
 
-namespace Sc\Util\HtmlStructure\Theme;
+namespace Justfire\Util\HtmlStructure\Theme;
 use JetBrains\PhpStorm\ExpectedValues;
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Theme\Interfaces\ResourceThemeInterface;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\ResourceThemeInterface;
 
 /**
  * 主题
  *
  * Class Theme
  *
- * @package Sc\Util\HtmlStructure\Theme
+ * @package Justfire\Util\HtmlStructure\Theme
  * @date    2023/5/27
  */
 class Theme

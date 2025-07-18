@@ -3,26 +3,26 @@
  * datetime: 2023/5/27 23:39
  **/
 
-namespace Sc\Util\HtmlStructure\Theme\ElementUI;
+namespace Justfire\Util\HtmlStructure\Theme\ElementUI;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlElement\ElementType\DoubleLabel;
-use Sc\Util\HtmlElement\ElementType\TextCharacters;
-use Sc\Util\HtmlStructure\Form\FormItem;
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Html\Js;
-use Sc\Util\HtmlStructure\Html\Js\Axios;
-use Sc\Util\HtmlStructure\Html\Js\JsFunc;
-use Sc\Util\HtmlStructure\Html\Js\JsService;
-use Sc\Util\HtmlStructure\Html\Js\Window;
-use Sc\Util\HtmlStructure\Table\Column;
-use Sc\Util\HtmlStructure\Theme\Interfaces\TableColumnThemeInterface;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlElement\ElementType\DoubleLabel;
+use Justfire\Util\HtmlElement\ElementType\TextCharacters;
+use Justfire\Util\HtmlStructure\Form\FormItem;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Html\Js;
+use Justfire\Util\HtmlStructure\Html\Js\Axios;
+use Justfire\Util\HtmlStructure\Html\Js\JsFunc;
+use Justfire\Util\HtmlStructure\Html\Js\JsService;
+use Justfire\Util\HtmlStructure\Html\Js\Window;
+use Justfire\Util\HtmlStructure\Table\Column;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\TableColumnThemeInterface;
 
 /**
  * Class TableColumn
  *
- * @package Sc\Util\HtmlStructure\Theme\ElementUI
+ * @package Justfire\Util\HtmlStructure\Theme\ElementUI
  * @date    2023/5/27
  */
 class TableColumnTheme implements TableColumnThemeInterface

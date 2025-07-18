@@ -1,16 +1,16 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Form;
+namespace Justfire\Util\HtmlStructure\Form;
 
 use JetBrains\PhpStorm\ExpectedValues;
 use JetBrains\PhpStorm\Language;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Form\ItemAttrs\Events;
-use Sc\Util\HtmlStructure\Form\ItemAttrs\FormOrigin;
-use Sc\Util\HtmlStructure\Form\ItemAttrs\LabelWidth;
-use Sc\Util\HtmlStructure\Html\Js\JsService;
-use Sc\Util\HtmlStructure\Theme\Interfaces\FormItemSubmitThemeInterface;
-use Sc\Util\HtmlStructure\Theme\Theme;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Form\ItemAttrs\Events;
+use Justfire\Util\HtmlStructure\Form\ItemAttrs\FormOrigin;
+use Justfire\Util\HtmlStructure\Form\ItemAttrs\LabelWidth;
+use Justfire\Util\HtmlStructure\Html\Js\JsService;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\FormItemSubmitThemeInterface;
+use Justfire\Util\HtmlStructure\Theme\Theme;
 
 /**
  * Class FormItemSubmit

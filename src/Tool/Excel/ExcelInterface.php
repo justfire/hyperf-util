@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\Tool\Excel;
+namespace Justfire\Util\Tool\Excel;
 
 use Psr\Http\Message\ResponseInterface;
 use Vtiful\Kernel\Excel;

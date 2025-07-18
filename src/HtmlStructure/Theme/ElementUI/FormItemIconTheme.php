@@ -3,15 +3,15 @@
  * datetime: 2023/6/3 23:16
  **/
 
-namespace Sc\Util\HtmlStructure\Theme\ElementUI;
+namespace Justfire\Util\HtmlStructure\Theme\ElementUI;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Form\FormItemAttrGetter;
-use Sc\Util\HtmlStructure\Form\FormItemIcon;
-use Sc\Util\HtmlStructure\Html\Html;
-use Sc\Util\HtmlStructure\Html\Js\VueComponents\IconSelector;
-use Sc\Util\HtmlStructure\Theme\Interfaces\FormItemIconThemeInterface;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Form\FormItemAttrGetter;
+use Justfire\Util\HtmlStructure\Form\FormItemIcon;
+use Justfire\Util\HtmlStructure\Html\Html;
+use Justfire\Util\HtmlStructure\Html\Js\VueComponents\IconSelector;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\FormItemIconThemeInterface;
 
 class FormItemIconTheme extends AbstractFormItemTheme implements FormItemIconThemeInterface
 {

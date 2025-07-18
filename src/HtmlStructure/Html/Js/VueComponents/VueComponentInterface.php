@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Html\Js\VueComponents;
+namespace Justfire\Util\HtmlStructure\Html\Js\VueComponents;
 
 /**
  * Interface VueComponentInterface

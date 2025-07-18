@@ -5,7 +5,7 @@
  **/
 
 
-namespace Sc\Util\Wechat\Pay\Type\Params;
+namespace Justfire\Util\Wechat\Pay\Type\Params;
 
 /**
  * 场景信息

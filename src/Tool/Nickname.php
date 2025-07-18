@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\Tool;
+namespace Justfire\Util\Tool;
 
 use JetBrains\PhpStorm\ExpectedValues;
 

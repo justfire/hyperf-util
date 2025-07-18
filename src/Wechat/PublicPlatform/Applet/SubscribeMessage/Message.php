@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\Wechat\PublicPlatform\Applet\SubscribeMessage;
+namespace Justfire\Util\Wechat\PublicPlatform\Applet\SubscribeMessage;
 
 use JetBrains\PhpStorm\ExpectedValues;
 

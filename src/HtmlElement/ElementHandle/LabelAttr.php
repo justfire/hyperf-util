@@ -3,17 +3,17 @@
  * datetime: 2023/4/13 2:08
  **/
 
-namespace Sc\Util\HtmlElement\ElementHandle;
+namespace Justfire\Util\HtmlElement\ElementHandle;
 
 use JetBrains\PhpStorm\Language;
-use Sc\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\El;
 
 /**
  * 标签属性
  *
  * Trait LabelAttr
  *
- * @package Sc\Util\Element
+ * @package Justfire\Util\Element
  * @date    2023/4/13
  */
 trait LabelAttr

@@ -3,10 +3,10 @@
  * datetime: 2023/4/14 1:31
  **/
 
-namespace Sc\Util\HtmlElement;
+namespace Justfire\Util\HtmlElement;
 
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlElement\ElementType\DoubleLabel;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlElement\ElementType\DoubleLabel;
 
 /**
  * 用作 HtmlElement 简写
@@ -39,7 +39,7 @@ use Sc\Util\HtmlElement\ElementType\DoubleLabel;
  * @method static DoubleLabel elForm(string|AbstractHtmlElement $content = '', array $attr = [])
  * @method static DoubleLabel elButton(string|AbstractHtmlElement $content = '', array $attr = [])
  *
- * @package Sc\Util\HtmlElement
+ * @package Justfire\Util\HtmlElement
  * @date    2023/4/14
  */
 class El extends HtmlElement

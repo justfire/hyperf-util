@@ -3,7 +3,7 @@
  * datetime: 2023/6/14 1:09
  **/
 
-namespace Sc\Util\MysqlDataBackup;
+namespace Justfire\Util\MysqlDataBackup;
 
 use Hyperf\Redis\Redis;
 

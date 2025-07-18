@@ -9,22 +9,22 @@ declare(strict_types=1);
  * @contact  group@hyperf.io
  * @license  https://github.com/hyperf/hyperf/blob/master/LICENSE
  */
-namespace Sc\Util;
+namespace Justfire\Util;
 
-use Sc\Util\Tool\BaiduFanYi;
-use Sc\Util\Tool\Ciphertext;
-use Sc\Util\Tool\ClassProxy;
-use Sc\Util\Tool\Dir;
-use Sc\Util\Tool\Excel\XlsWriter;
-use Sc\Util\Tool\HtmlDocument;
-use Sc\Util\Tool\JWT;
-use Sc\Util\Tool\Lock;
-use Sc\Util\Tool\Nickname;
-use Sc\Util\Tool\Random;
-use Sc\Util\Tool\RemoteResourceDownload;
-use Sc\Util\Tool\SensitiveWord;
-use Sc\Util\Tool\Tree;
-use Sc\Util\Tool\Url;
+use Justfire\Util\Tool\BaiduFanYi;
+use Justfire\Util\Tool\Ciphertext;
+use Justfire\Util\Tool\ClassProxy;
+use Justfire\Util\Tool\Dir;
+use Justfire\Util\Tool\Excel\XlsWriter;
+use Justfire\Util\Tool\HtmlDocument;
+use Justfire\Util\Tool\JWT;
+use Justfire\Util\Tool\Lock;
+use Justfire\Util\Tool\Nickname;
+use Justfire\Util\Tool\Random;
+use Justfire\Util\Tool\RemoteResourceDownload;
+use Justfire\Util\Tool\SensitiveWord;
+use Justfire\Util\Tool\Tree;
+use Justfire\Util\Tool\Url;
 
 /**
  *  Class Tool.
@@ -44,14 +44,14 @@ use Sc\Util\Tool\Url;
  * @method static XlsWriter xls(array|string $config)
  * @method static Lock lock(string $key, int $ttl = 5, int $waitTime = 0)
  *
- * @see ScTool
+ * @see JustfireTool
  * @date 2022/2/20
- * @deprecated 后续可继续使用，但是不提供代码提示的编写，新的转移到ScTool类中,以便更好的代码提示
+ * @deprecated 后续可继续使用，但是不提供代码提示的编写，新的转移到JustfireTool类中,以便更好的代码提示
  */
 class Tool
 {
     public static function __callStatic(string $name, array $arguments)
     {
-        return ScTool::$name(...$arguments);
+        return JustfireTool::$name(...$arguments);
     }
 }

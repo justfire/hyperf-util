@@ -3,13 +3,13 @@
  * datetime: 2023/6/3 23:16
  **/
 
-namespace Sc\Util\HtmlStructure\Theme\ElementUI;
+namespace Justfire\Util\HtmlStructure\Theme\ElementUI;
 
-use Sc\Util\HtmlElement\El;
-use Sc\Util\HtmlElement\ElementType\AbstractHtmlElement;
-use Sc\Util\HtmlStructure\Form\FormItemAttrGetter;
-use Sc\Util\HtmlStructure\Form\FormItemSwitch;
-use Sc\Util\HtmlStructure\Theme\Interfaces\FormItemSwitchThemeInterface;
+use Justfire\Util\HtmlElement\El;
+use Justfire\Util\HtmlElement\ElementType\AbstractHtmlElement;
+use Justfire\Util\HtmlStructure\Form\FormItemAttrGetter;
+use Justfire\Util\HtmlStructure\Form\FormItemSwitch;
+use Justfire\Util\HtmlStructure\Theme\Interfaces\FormItemSwitchThemeInterface;
 
 class FormItemSwitchTheme extends AbstractFormItemTheme implements FormItemSwitchThemeInterface
 {

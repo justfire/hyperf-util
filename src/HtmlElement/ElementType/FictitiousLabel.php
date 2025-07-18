@@ -3,14 +3,14 @@
  * datetime: 2023/5/6 1:20
  **/
 
-namespace Sc\Util\HtmlElement\ElementType;
+namespace Justfire\Util\HtmlElement\ElementType;
 
 /**
  * 虚拟标签
  *
  * Class FictitiousLabel
  *
- * @package Sc\Util\HtmlElement
+ * @package Justfire\Util\HtmlElement
  * @date    2023/5/6
  */
 class FictitiousLabel extends DoubleLabel

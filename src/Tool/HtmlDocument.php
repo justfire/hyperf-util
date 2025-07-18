@@ -9,11 +9,11 @@ declare(strict_types=1);
  * @contact  group@hyperf.io
  * @license  https://github.com/hyperf/hyperf/blob/master/LICENSE
  */
-namespace Sc\Util\Tool;
+namespace Justfire\Util\Tool;
 
 use JetBrains\PhpStorm\Language;
 use JetBrains\PhpStorm\Pure;
-use Sc\Util\Exception\StopHtmlDocumentEachException;
+use Justfire\Util\Exception\StopHtmlDocumentEachException;
 
 /**
  * Class Html.

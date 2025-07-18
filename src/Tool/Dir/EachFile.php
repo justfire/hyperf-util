@@ -1,8 +1,8 @@
 <?php
 
-namespace Sc\Util\Tool\Dir;
+namespace Justfire\Util\Tool\Dir;
 
-use Sc\Util\Tool\Dir;
+use Justfire\Util\Tool\Dir;
 
 /**
  * Class EachFile

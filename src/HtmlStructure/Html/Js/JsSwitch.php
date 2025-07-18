@@ -1,8 +1,8 @@
 <?php
 
-namespace Sc\Util\HtmlStructure\Html\Js;
+namespace Justfire\Util\HtmlStructure\Html\Js;
 
-use Sc\Util\HtmlStructure\Html\Js;
+use Justfire\Util\HtmlStructure\Html\Js;
 
 /**
  * Class JsSwitch

@@ -1,9 +1,9 @@
 <?php
 
-namespace Sc\Util\Wechat\Pay\Notice\PayNoticeParams;
+namespace Justfire\Util\Wechat\Pay\Notice\PayNoticeParams;
 
 use JetBrains\PhpStorm\ExpectedValues;
-use Sc\Util\Wechat\Pay\Notice\SetData;
+use Justfire\Util\Wechat\Pay\Notice\SetData;
 
 /**
  * 通知解密后的数据

@@ -1,9 +1,9 @@
 <?php
 
-namespace Sc\Util\Tool;
+namespace Justfire\Util\Tool;
 
-use Sc\Util\Tool\Excel\Spreadsheet;
-use Sc\Util\Tool\Excel\XlsWriter;
+use Justfire\Util\Tool\Excel\Spreadsheet;
+use Justfire\Util\Tool\Excel\XlsWriter;
 
 class Excel
 {

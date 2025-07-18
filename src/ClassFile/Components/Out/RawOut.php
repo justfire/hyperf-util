@@ -1,6 +1,6 @@
 <?php
 
-namespace Sc\Util\ClassFile\Components\Out;
+namespace Justfire\Util\ClassFile\Components\Out;
 
 /**
  * Class RowOut

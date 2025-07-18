@@ -3,12 +3,12 @@
  * datetime: 2023/6/3 2:47
  **/
 
-namespace Sc\Util\HtmlStructure\Form;
+namespace Justfire\Util\HtmlStructure\Form;
 
 /**
  * Class FormItemPassword
  *
- * @package Sc\Util\HtmlStructure\Form
+ * @package Justfire\Util\HtmlStructure\Form
  * @date    2023/6/3
  */
 class FormItemNumber extends FormItemText

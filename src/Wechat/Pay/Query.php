@@ -1,12 +1,12 @@
 <?php
 
-namespace Sc\Util\Wechat\Pay;
+namespace Justfire\Util\Wechat\Pay;
 
-use Sc\Util\Wechat\Execption\WechatException;
-use Sc\Util\Wechat\Config;
-use Sc\Util\Wechat\Pay\Query\RefundData;
-use Sc\Util\Wechat\Request;
-use Sc\Util\Wechat\Tool;
+use Justfire\Util\Wechat\Execption\WechatException;
+use Justfire\Util\Wechat\Config;
+use Justfire\Util\Wechat\Pay\Query\RefundData;
+use Justfire\Util\Wechat\Request;
+use Justfire\Util\Wechat\Tool;
 
 /**
  * Class Query
