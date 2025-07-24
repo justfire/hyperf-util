@@ -100,7 +100,7 @@ final class ImitateAopProxy
     {
         $aspectClass = $this->aspectMapping[$name] ?? [];
 
-        if ($aspectClass) {
+        if (!$aspectClass) {
             return $this->proxyClass->{$name}(...$arguments);
         }
 
